@@ -1,0 +1,139 @@
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+  height: 100%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e79c2a;
+  border-width: 8px;
+  width: 4%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 580%;
+  margin: 0;
+  color: #3ca59d;
+}
+
+h2 {
+  color: #3ca59d;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 281.25%;
+  font-weight: normal;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+h3 {
+  color: #3ca59d;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #5a3d55;
+}
+
+.bottomCloud {
+  bottom: 45%;
+  left: 29%;
+  position: absolute;
+}
+
+.bottomContainer {
+  background-color: #5a3d55;
+  padding-bottom: 50px;
+  padding-top: 30px;
+}
+
+.btn {
+  background-color: #e79c2a;
+  border-radius: 10%;
+  color: white;
+  height: 300px;
+  padding: 20px;
+  width: 300px;
+}
+
+.computerIcon {
+  float: left;
+  margin-right: 40px;
+  width: 25%;
+}
+
+.copyright {
+  color: white;
+}
+
+.contactMe {
+  margin-bottom: 70px;
+  margin-top: 40px;
+}
+
+.footerLink {
+  color: #3ca59d;
+  padding: 5px;
+
+}
+
+.gicSubHead {
+  color: #5a3d55;
+  font-size: 100%;
+  margin-top: 10px;
+  margin-bottom: 70px;
+}
+
+.japaneseIcon {
+  float: right;
+  margin-right: 40px;
+  width: 25%;
+}
+
+.profile {
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+
+.profilePicture {
+  border-radius: 100%;
+  height: auto;
+  width: 10%;
+
+}
+
+.skills {
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+
+.skillRow {
+  margin: auto;
+  margin-top: 60px;
+  margin-bottom: 110px;
+  line-height: 1.5;
+  text-align: left;
+  width: 50%;
+}
+
+.subHeader {
+  color: #5a3d55;
+  font-size: 160%;
+}
+
+.topContainer {
+  background-color: #a2de96;
+  padding-top: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.topCloud {
+  left: 18%;
+  margin-top: 1%;
+  position: relative;
+}
