@@ -11,6 +11,7 @@ hr {
   border-color: #e79c2a;
   border-width: 8px;
   width: 4%;
+  margin: 70px auto;
 }
 
 h1 {
@@ -62,7 +63,7 @@ p {
 
 .computerIcon {
   float: left;
-  margin-right: 40px;
+  margin-right: 30px;
   width: 150px;
 }
 
@@ -90,7 +91,7 @@ p {
 
 .japaneseIcon {
   float: right;
-  margin-left: 40px;
+  margin-left: 30px;
   width: 150px;
 }
 
@@ -114,7 +115,7 @@ p {
 .skillRow {
   margin: auto;
   margin-top: 60px;
-  margin-bottom: 90px;
+  margin-bottom: 20px;
   line-height: 1.5;
   text-align: left;
   width: 50%;
